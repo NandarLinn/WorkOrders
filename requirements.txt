@@ -1,0 +1,13 @@
+fastapi[all]
+SQLAlchemy
+langchain
+openai
+langchain_experimental
+python-dateutil
+pytest
+httpx
+pytest-asyncio
+anyio
+pytest-tornasync
+pytest-trio
+twisted
